@@ -1,0 +1,37 @@
+Loan Approval Process:
+Loan approval involves verification of applicant identity, income documents, credit score assessment, employment stability review, and repayment capacity evaluation. Approval is subject to internal policy guidelines and risk assessment frameworks.
+
+EMI Calculation:
+EMI is calculated using the amortization formula:
+EMI = [P × R × (1+R)^N] / [(1+R)^N − 1]
+Where P is principal, R is monthly interest rate, and N is tenure in months. Changes in tenure or interest rate will proportionally affect the EMI amount.
+
+Interest Rate Policy:
+Interest rates may be fixed or floating. Rates are determined based on credit risk profile, market benchmarks, and regulatory policy guidelines. Banks may revise rates periodically according to regulatory norms.
+
+Late Payment Penalty:
+Late EMI payments may attract penal interest charges as per bank policy. Continuous default may affect credit score, impact future loan eligibility, and trigger recovery proceedings.
+
+Loan Prepayment:
+Borrowers can prepay part or full outstanding loan. Prepayment may reduce tenure or EMI amount. Certain loans may have prepayment charges or restrictions according to regulatory guidelines.
+
+Foreclosure Policy:
+If a borrower wishes to foreclose the loan before the tenure ends, a foreclosure penalty may be applied. The penalty is calculated based on remaining principal, tenure left, and prevailing interest rates. Some loans may allow foreclosure without penalty.
+
+Loan Eligibility Factors:
+Loan eligibility is determined based on income stability, credit score, employment type, existing liabilities, repayment capacity, and compliance with regulatory norms. Each factor is assessed as per bank policy guidelines.
+
+Payment Methods:
+Loan payments can be made through net banking, mobile banking, auto-debit, NEFT/RTGS transfers, or authorized payment channels. Prepayment or partial payment rules apply as per loan type.
+
+Insurance Claim Processing:
+Insurance claims require submission of the claim form, supporting documents, and policy verification. Claims are processed within stipulated timelines, and approval is subject to regulatory norms.
+
+Customer Support:
+For assistance, customers should contact official bank channels. Verified phone numbers, email addresses, and online portals are provided on the bank’s official website. AI assistants cannot provide direct personal account information.
+
+Regulatory Compliance:
+All loan and insurance operations comply with applicable banking regulations, KYC norms, and data privacy laws. Non-compliance may result in penalties for both borrower and lender.
+
+Interest Rate Changes:
+Changes to interest rates are communicated to borrowers as per regulatory guidelines. Floating rate loans adjust periodically, while fixed-rate loans remain constant unless explicitly revised under special provisions.
